@@ -57,3 +57,6 @@ Dataset:
 | **Education**             | Nivel de educación<br>Escala de 1 a 6<br>1: No se graduó de la escuela secundaria<br>2: Graduado de la escuela secundaria<br>3: Asistió a la universidad<br>4: Graduado universitario<br>5: Estudios de posgrado<br>6: Doctorado o equivalente |
 | **Income**                | Escala de ingresos<br>Escala de 1 a 8<br>1: <$10 K<br>2: $10–$15 K<br>3: $15–$20 K<br>4: $20–$25 K<br>5: $25–$35 K<br>6: $35–$50 K<br>7: $50–$75 K<br>8: >$75 K |
 
+Hola
+
+
