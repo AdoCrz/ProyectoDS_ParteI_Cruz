@@ -62,7 +62,7 @@ Dataset:
 
 - **Df_diabetes.csv**: Este archivo contiene el conjunto de datos utilizado en el análisis, que incluye más de 70,000 respuestas sobre indicadores de salud y prevalencia de diabetes.
 
-- **Notebook del Proyecto**: El notebook contiene todo el desarrollo del proyecto, incluyendo la limpieza de datos, análisis exploratorio, pruebas de hipótesis, y la visualización de los resultados.
+- **Notebook del Proyecto**: El notebook contiene todo el desarrollo del proyecto, incluyendo la limpieza de datos, análisis exploratorio, pruebas de hipótesis, y la visualización de los resultados. (En caso de no poder abrir, consultar link: https://drive.google.com/drive/folders/1kxbkHKzarTTW_A-cvo0P2p2KYiWfSbJ7?usp=sharing)
 
 
 
