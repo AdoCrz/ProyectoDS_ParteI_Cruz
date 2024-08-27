@@ -58,5 +58,12 @@ Dataset:
 | **Income**                | Escala de ingresos<br>Escala de 1 a 8<br>1: <$10 K<br>2: $10–$15 K<br>3: $15–$20 K<br>4: $20–$25 K<br>5: $25–$35 K<br>6: $35–$50 K<br>7: $50–$75 K<br>8: >$75 K |
 
 
+### Archivos del Proyecto
+
+- **Df_diabetes.csv**: Este archivo contiene el conjunto de datos utilizado en el análisis, que incluye más de 70,000 respuestas sobre indicadores de salud y prevalencia de diabetes.
+
+- **Notebook del Proyecto**: El notebook contiene todo el desarrollo del proyecto, incluyendo la limpieza de datos, análisis exploratorio, pruebas de hipótesis, y la visualización de los resultados.
+
+
 
 
